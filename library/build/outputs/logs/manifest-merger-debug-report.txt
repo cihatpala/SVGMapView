@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml:1:11-43
+		INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+		INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml:1:1-3:12
+uses-sdk
+INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+		INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml
+		INJECTED from G:\My-Projects\SVGMapView-master\library\src\main\AndroidManifest.xml

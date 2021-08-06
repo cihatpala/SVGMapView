@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jiahuan.svgmapview.sample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="9"
+8-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+10
+11    <application
+11-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:6:5-35:19
+12        android:allowBackup="true"
+12-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:7:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:8:9-43
+15        android:label="@string/app_name"
+15-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:9:9-41
+16        android:theme="@style/AppTheme" >
+16-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:10:9-40
+17        <activity android:name="com.jiahuan.svgmapview.sample.MainActivity" >
+17-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:11:9-18:20
+17-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:12:13-41
+18            <intent-filter>
+18-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:13:13-17:29
+19                <action android:name="android.intent.action.MAIN" />
+19-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:14:17-68
+19-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:14:25-66
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:16:17-76
+21-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:16:27-74
+22            </intent-filter>
+23        </activity>
+24        <activity android:name="com.jiahuan.svgmapview.sample.BasicActivity" >
+24-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:20:9-23:20
+24-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:21:13-42
+25        </activity>
+26        <activity android:name="com.jiahuan.svgmapview.sample.OperationActivity" >
+26-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:25:9-28:20
+26-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:26:13-46
+27        </activity>
+28        <activity android:name="com.jiahuan.svgmapview.sample.LocationOverlayActivity" />
+28-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:30:9-70
+28-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:30:19-58
+29        <activity android:name="com.jiahuan.svgmapview.sample.SparkActivity" />
+29-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:32:9-60
+29-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:32:19-48
+30        <activity android:name="com.jiahuan.svgmapview.sample.CustomOverlayActivity" />
+30-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:34:9-68
+30-->G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:34:19-56
+31    </application>
+32
+33</manifest>

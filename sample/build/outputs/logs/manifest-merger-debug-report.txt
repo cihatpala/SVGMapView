@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [:library] G:\My-Projects\SVGMapView-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\542b6dcae2191a7ca4b2e7355a5f2bee\appcompat-v7-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\3fcedd6a6d2ded7af2eb74063ec2e678\support-v4-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\9df83a1d01a57e3b4ba3fcf08e93f0a3\animated-vector-drawable-24.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b1bb91e72a210cdbd33a050503fd4758\support-vector-drawable-24.2.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\50ab2957634c9e4b07f30f54904bb482\support-fragment-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\7d42d4aaf923ab23ef3ff793c239b878\support-media-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b0138b7602ec675a1944f3a374952463\support-core-utils-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\6a09d343e3110731607ee4ab0423669f\support-core-ui-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\831ee1637cc1e4cabb5b0fc3afb473b3\support-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:4:5-63
+application
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:6:5-35:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\542b6dcae2191a7ca4b2e7355a5f2bee\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\542b6dcae2191a7ca4b2e7355a5f2bee\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\3fcedd6a6d2ded7af2eb74063ec2e678\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\3fcedd6a6d2ded7af2eb74063ec2e678\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\9df83a1d01a57e3b4ba3fcf08e93f0a3\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\9df83a1d01a57e3b4ba3fcf08e93f0a3\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b1bb91e72a210cdbd33a050503fd4758\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b1bb91e72a210cdbd33a050503fd4758\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\50ab2957634c9e4b07f30f54904bb482\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\50ab2957634c9e4b07f30f54904bb482\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\7d42d4aaf923ab23ef3ff793c239b878\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\7d42d4aaf923ab23ef3ff793c239b878\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b0138b7602ec675a1944f3a374952463\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b0138b7602ec675a1944f3a374952463\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\6a09d343e3110731607ee4ab0423669f\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\6a09d343e3110731607ee4ab0423669f\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\831ee1637cc1e4cabb5b0fc3afb473b3\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\831ee1637cc1e4cabb5b0fc3afb473b3\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:10:9-40
+activity#com.jiahuan.svgmapview.sample.MainActivity
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:11:9-18:20
+	android:name
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:16:27-74
+activity#com.jiahuan.svgmapview.sample.BasicActivity
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:20:9-23:20
+	android:name
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:21:13-42
+activity#com.jiahuan.svgmapview.sample.OperationActivity
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:25:9-28:20
+	android:name
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:26:13-46
+activity#com.jiahuan.svgmapview.sample.LocationOverlayActivity
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:30:9-70
+	android:name
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:30:19-58
+activity#com.jiahuan.svgmapview.sample.SparkActivity
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:32:19-48
+activity#com.jiahuan.svgmapview.sample.CustomOverlayActivity
+ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:34:9-68
+	android:name
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml:34:19-56
+uses-sdk
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+MERGED from [:library] G:\My-Projects\SVGMapView-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:library] G:\My-Projects\SVGMapView-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\542b6dcae2191a7ca4b2e7355a5f2bee\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\542b6dcae2191a7ca4b2e7355a5f2bee\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\3fcedd6a6d2ded7af2eb74063ec2e678\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\3fcedd6a6d2ded7af2eb74063ec2e678\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\9df83a1d01a57e3b4ba3fcf08e93f0a3\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\9df83a1d01a57e3b4ba3fcf08e93f0a3\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b1bb91e72a210cdbd33a050503fd4758\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b1bb91e72a210cdbd33a050503fd4758\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\50ab2957634c9e4b07f30f54904bb482\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\50ab2957634c9e4b07f30f54904bb482\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\7d42d4aaf923ab23ef3ff793c239b878\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\7d42d4aaf923ab23ef3ff793c239b878\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b0138b7602ec675a1944f3a374952463\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\b0138b7602ec675a1944f3a374952463\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\6a09d343e3110731607ee4ab0423669f\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\6a09d343e3110731607ee4ab0423669f\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\831ee1637cc1e4cabb5b0fc3afb473b3\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\831ee1637cc1e4cabb5b0fc3afb473b3\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Cihat\.gradle\caches\transforms-2\files-2.1\542b6dcae2191a7ca4b2e7355a5f2bee\appcompat-v7-24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\My-Projects\SVGMapView-master\sample\src\main\AndroidManifest.xml
